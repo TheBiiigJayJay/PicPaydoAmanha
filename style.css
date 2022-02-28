@@ -64,7 +64,7 @@ header button{
 main{
     height: 90vh;
     background-color: #EFF0EA;
-    background-image: url("/Assets/main.jpg");
+    background-image: url("main.jpg");
     background-size: contain;
     background-repeat: no-repeat;
     background-position: -10em;
